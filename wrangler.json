@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "autumn-sky-cca9",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a5ddee2e-2b0a-40f3-860b-48177977982d",
+      "database_name": "bold-meadow-f3fb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
